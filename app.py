@@ -24,7 +24,7 @@ tuition_mapping = mappings["tuition_fees_up_to_date"]
 gender_mapping = mappings["gender"]
 scholar_holder_mapping = mappings["scholar_holder"]
 
-st.set_page_config(page_title="Credi", layout="wide")
+st.set_page_config(page_title="Student Dropout Prediction", layout="wide")
 
 st.sidebar.image("https://toppng.com/uploads/preview/university-logo-design-1156335563731n8qyat0v.png", width=200)
 st.sidebar.title("🎓 Student Dropout Prediction")
